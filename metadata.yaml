@@ -1,0 +1,29 @@
+_repo: Jasper-Lyle_35307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Mrs.
+    alias: Ward, Harriet
+    birthdate: 1808
+    deathdate: 1873
+    gutenberg_agent_id: '37588'
+    url: http://www.gutenberg.org/2009/agents/37588
+description: ''
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xhosa (African people) -- Fiction'
+- !lcsh 'English fiction'
+- !lcc 'PR'
+- !lcsh 'Cape of Good Hope (South Africa) -- Fiction'
+title: Jasper Lyle
+url: http://www.gutenberg.org/ebooks/35307
